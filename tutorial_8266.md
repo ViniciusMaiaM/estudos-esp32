@@ -19,7 +19,7 @@ e clique no botão OK;
 
 - No menu abra **Ferramentas > Placa > ESP8266 Boards > Generic ESP8266 Module** 
 
-- No menu abra **Ferramentas > Porta >** e selecione a porta em que o modulo está conectado.
+- No menu abra **Ferramentas > Porta >** e selecione a porta USB em que o modulo está conectado.
 
 - No menu abra **Arquivo > Exemplos > 01.Basics > Blink**, este script irá fazer com que o LED do modulo pisque a cada 1 segundo.
 
